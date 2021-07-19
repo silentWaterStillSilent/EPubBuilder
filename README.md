@@ -45,3 +45,5 @@ var EBConfig = {
 
 #演示地址    
 [http://sqqihao.github.io/EPubBuilder/src/index.html](http://sqqihao.github.io/EPubBuilder/src/index.html)
+
+#使用ireader无法打开该方法生成的epub
